@@ -1,0 +1,11 @@
+{
+    "listenner_token": "",
+    "welcome_channel_id": "",
+    "timeout": 30,
+    "proxy": true,
+
+    "wait_time": 10,
+
+    "message": "Hello <user> !<newline>https://github.com/selfwy"
+}
+
